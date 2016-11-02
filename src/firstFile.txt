@@ -1,2 +1,0 @@
-coucou le monde
-Ma correction pour le BUG 9854
