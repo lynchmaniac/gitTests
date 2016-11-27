@@ -16,3 +16,7 @@ function v17_2(database) {
 	console.log("Deuxième fonction de la version v17");
 }
 
+function v16_3(controller) {
+	console.log("Troisième fonction");
+}
+
