@@ -10,4 +10,4 @@ Voir le détail dans le
 ## Ceci est mon autre super test
 
 Il suffit de suivre la manipulation présente dans le
-[fichier d'instalation de Gitlab/Désinstallation propre d'une instance de Gitlab.](./InstallGitlab.md#désinstallation-propre-dune-instance-de-gitlab)
+[fichier d'instalation de Gitlab/Désinstallation propre d'une instance de Gitlab.](./installation.md#désinstallation-propre-dune-instance-de-gitlab)
